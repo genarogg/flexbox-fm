@@ -13,3 +13,12 @@ body {
 	background-attachment: fixed;
 }
 
+.contenedor {
+	margin: auto;
+	width: 90%;
+	max-width: 1000px;
+	display: flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+
