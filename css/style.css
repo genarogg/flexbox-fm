@@ -38,3 +38,17 @@ header .menu a {
 	font-size: 18px;
 }
 
+header .menu a:hover {
+	text-decoration: underline;
+}
+
+.logo img{
+	width: 220px;
+}
+.main {
+	background: #fff;
+	padding: 20px;
+	width: 70%;
+}
+
+
