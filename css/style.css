@@ -51,4 +51,13 @@ header .menu a:hover {
 	width: 70%;
 }
 
+.main article .thumb {
+	margin-bottom: 20px;
+}
+
+.main article .thumb img {
+	width: 100%;
+	vertical-align: top;
+}
+
 
