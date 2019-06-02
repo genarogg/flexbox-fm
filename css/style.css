@@ -113,6 +113,12 @@ footer .redes-sociales a:hover {
 	text-decoration: none;
 }
 
+@media screen and (max-width: 800px){
+	.main {
+		width: 100%;
+	}
 
+	
+}
 
 
