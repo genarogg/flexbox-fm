@@ -118,7 +118,14 @@ footer .redes-sociales a:hover {
 		width: 100%;
 	}
 
-	
+	aside {
+		width: 100%;
+		flex-direction:row;
+	}
+
+	aside .ad {
+		width: 40%;
+	}
 }
 
 
