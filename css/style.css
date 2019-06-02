@@ -149,6 +149,18 @@ footer .redes-sociales a:hover {
 		margin-bottom: 20px;
 	}
 
-	
+	footer {
+		flex-direction:column;
+		text-align: center;
+	}
+
+	footer .autor {
+		order:2;
+	}
+
+	footer .redes-sociales {
+		order: 1;
+		margin-bottom: 20px;
+	}
 }
 
